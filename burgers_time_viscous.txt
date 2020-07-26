@@ -1,0 +1,31 @@
+Wed Apr 29 08:54:21 2020
+
+burgers_time_viscous_test:
+  Python version: 3.6.9
+  FENICS version 2019.1.0
+  Solve the time-dependent 1d viscous Burgers equation.
+
+  Number of elements is 32
+  Viscosity set to 0.05
+Graphics saved as "burgers_time_viscous_0.png"
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Graphics saved as "burgers_time_viscous_10.png"
+Graphics saved as "burgers_time_viscous_20.png"
+Graphics saved as "burgers_time_viscous_30.png"
+Graphics saved as "burgers_time_viscous_40.png"
+Graphics saved as "burgers_time_viscous_50.png"
+Graphics saved as "burgers_time_viscous_60.png"
+Graphics saved as "burgers_time_viscous_70.png"
+Graphics saved as "burgers_time_viscous_80.png"
+Graphics saved as "burgers_time_viscous_90.png"
+Graphics saved as "burgers_time_viscous_100.png"
+
+Reached final time.
+
+burgers_time_viscous_test:
+  Normal end of execution.
+
+Wed Apr 29 08:54:24 2020
