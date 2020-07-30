@@ -19,7 +19,7 @@ def burgers_time_viscous ( e_num, nu ):
 #
 #  Licensing:
 #
-#    This code is distributed under the GNU LGPL license.
+#    This code is distributed under the MIT license.
 #
 #  Modified:
 #
@@ -27,7 +27,7 @@ def burgers_time_viscous ( e_num, nu ):
 #
 #  Author:
 #
-#    John Burkardt
+#   Sourangshu Ghosh
 #
 #  Parameters:
 #
