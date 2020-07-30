@@ -11,8 +11,12 @@ fenicsproject run
 python3 burgers_time_viscous.py
 exit
 
-Licensing:
+## Licensing:
 MIT License
+
+## Author:
+
+Sourangshu Ghosh
 
 ## Reference:
 Hans Petter Langtangen, Anders Logg,
